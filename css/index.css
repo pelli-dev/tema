@@ -443,6 +443,7 @@ html body .footer a {
   }
   html body .second-part .second-part-subcontainer .second-part-articles .second-part-articles-container .second-part-article .second-part-article-body .second-part-article-text {
     font-size: 1em;
+    padding-bottom: 40px;
   }
 }
 
