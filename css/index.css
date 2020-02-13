@@ -435,7 +435,7 @@ html body .footer a {
     height: auto;
   }
   html body .second-part .second-part-subcontainer .second-part-articles .second-part-articles-container .second-part-article .article-img-container {
-    width: 100%;
+    display: none;
   }
   html body .second-part .second-part-subcontainer .second-part-articles .second-part-articles-container .second-part-article .second-part-article-body {
     width: 100%;
